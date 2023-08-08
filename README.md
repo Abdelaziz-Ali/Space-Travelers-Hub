@@ -189,8 +189,8 @@ npm test
 
 👤 **Abdelaziz Mahdi**
 
-- 👤 GitHub: [@Abdelaziz-Ali](https://github.com/Abdelaziz-Ali)
-- 👤 Twitter: [@AbdelazizDV](https://twitter.com/AbdelazizDV)
+- 👤 GitHub: [@Abdelaziz-Mahdi](https://github.com/Abdelaziz-Mahdi)
+- 👤 Twitter: [@_AbdelazizMahdi](https://twitter.com/_AbdelazizMahdi)
 - 👤 LinkedIn: [in/abdelaziz-mahdi](https://www.linkedin.com/in/abdelaziz-mahdi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
